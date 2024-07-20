@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Jewel!
-- 👀 I like waking up very early in the morning, play video games and create notion page to min/max for said video games.
+- 👀 My friends call me insane because I like waking up very early in the morning. In my free time, I like to play video games and create notion page to min/max for said video games.
 - 🌱 Lately, I have been learning combinations, enumeratics, and cloud computing.
 - 💞️ I recently completed the Google IT Certificate online.
 - 🛠️ Right now, I am creating a typing speed game website and studying freeCodeCamp's course on Relational Database Certificate.
