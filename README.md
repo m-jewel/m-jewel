@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Jewel!
 - 👀 My friends call me insane because I like waking up very early in the morning. In my free time, I like to play video games and create notion page to min/max for said video games.
-- 🌱 Lately, I have been learning combinations, enumeratics, and cloud computing.
+- 🌱 Lately, I have been learning mathematics combinations and enumeratics, and cloud computing.
 - 💞️ I recently completed the Google IT Certificate online.
 - 🛠️ Right now, I am creating a typing speed game website and studying freeCodeCamp's course on Relational Database Certificate.
 - 🗓️ After completing what I am working on, I plan to study Data Visualization and Scientific Computing with Python at freeCodeCamp.
